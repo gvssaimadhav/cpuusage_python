@@ -1,3 +1,4 @@
+#Written By GVS Sai Madhav
 import psutil
 
 def cpu_info():
